@@ -18,7 +18,7 @@ Destroyer | 2
 
 - **Bombe**: Chaque joueur place 5 bombes dans sa grille. Si un joueur touche une case où il y a une bombe, il passe son tour.
 
-### Niveau de difficulté
+### Niveaux de difficulté
 - **Facile**: L'ordinateur coule les navires aléatoirement
   
 
